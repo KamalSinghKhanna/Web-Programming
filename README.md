@@ -1,3 +1,3 @@
 # Web-Programming
 
-Web programming with ython and JavaScript
+Web programming with Python and JavaScript
